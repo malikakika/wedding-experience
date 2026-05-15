@@ -37,7 +37,7 @@
       <p class="distance">≈ 1 850 km</p>
 
       <p class="names">Malika ✦ Maxime</p>
-      <p class="date">Samedi 12 septembre 2026</p>
+      <p class="date">Samedi 20 Juin 2026</p>
     </div>
   </div>
 </template>
